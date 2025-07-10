@@ -1,0 +1,5 @@
+user_id,timestamp,product_category,time_spent,price,clicks,purchase_amount,last_purchase_date,gender
+1,01-07-2025 10:00,Electronics,300,1200,5,0,,Male
+2,01-07-2025 11:00,Clothing,150,500,3,500,20-06-2025,Female
+3,02-07-2025 12:30,Books,200,300,4,0,,Male
+4,03-07-2025 14:00,Electronics,400,1500,6,1500,25-06-2025,Female
