@@ -7,7 +7,6 @@ This project analyzes customer data to predict purchase behavior and provide ins
 - `data/`: Contains sample CSV data.
 - `scripts/`: Main Python script to preprocess data and train a model.
 - `dashboard/`: Streamlit app to visualize insights.
-- `notebooks/`: Placeholder for Jupyter analysis (optional).
 
 ## Run the model:
 ```bash
